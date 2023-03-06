@@ -95,9 +95,13 @@ Links
 ## Information Warfare
 Information warfare (IW) (as different from cyber warfare that attacks computers, software, and command control systems) is a concept involving the battlespace use and management of information and communication technology (ICT) in pursuit of a competitive advantage over an opponent.
 Examples:
-- Command and control warfare
+- Command and control warfare (C2)
+- Intelligence-based warfare
 - Electronic warfare
+- Psychological warfare
 - Hacker warfare
+- Economic warfare
+- Cyberwarfare
 
 Links
 - [https://en.wikipedia.org/wiki/Information_warfare](https://en.wikipedia.org/wiki/Information_warfare)
